@@ -1,0 +1,34 @@
+/* .bluebox{
+    background-color: steelblue;
+    width: 300px;
+    height: 300px;
+    position: relative; */
+    /* margin-top: 50px;
+    float: right; */
+    /* bottom: 530px;
+    top: 250px;
+    right: 80px;
+    padding-left: 500px;
+    margin-left: 100px; */
+    /* position: sticky; It will be sticky on the page as offset value given; */
+    /* top: 0px;
+    bottom: 0px;
+    
+} */
+/* .redbox{
+    background-color: #fd1d1d;
+    width: 100px;
+    height: 100px; */
+    /* position: absolute; if use this, the thing will be shown on the top of the body first i.e. redbox */
+    /* top: 150px;
+    left: 100px; /* it would show replace from the left of blue box as bluebox is a parent class*/
+    /* position: fixed;  */
+    /* It'll be sticking on the same place of the page, even if we scroll the page  
+ } */
+
+.column p{
+    width: 30%;
+    float: left;
+    
+}
+
